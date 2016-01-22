@@ -1,0 +1,20 @@
+
+TeleOP Version History
+
+Build1 - All Motors Included
+
+Build2 - Added Limit Switches For Lift
+
+Build3 - Fixed Errors. Still Unknown issue with Limit Switches (true unused?)
+
+Build4 - Changed Limit Switches to Touch Sensors and updated code
+
+Build5 - Cleanup and Formatting updates (Tim)
+
+Build5_Team - Test Build
+
+Build6 - Add Center DC Motors for additional wheels
+
+Build7 - Added Flipper Start/Return Position Variable
+
+Build8 - Added Internal Sweeper Motor Timer
